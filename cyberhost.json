@@ -1,0 +1,39 @@
+{
+  "app_name": "CyberHost Pro",
+  "releases": [
+    {
+      "version": "3.0.1",
+      "version_code": 301,
+      "release_date": "2026-07-09",
+      "description": "Bug fixes and performance improvements",
+      "assets": [
+        {
+          "name": "CyberHost_Pro_v3.0.1.apk",
+          "download_url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/v3.0.1/CyberHost_Pro_v3.0.1.apk",
+          "size_bytes": 4587520,
+          "type": "apk"
+        },
+        {
+          "name": "blocklist_extra.txt",
+          "download_url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/v3.0.1/blocklist_extra.txt",
+          "size_bytes": 2048,
+          "type": "blocklist"
+        }
+      ]
+    },
+    {
+      "version": "3.0.0",
+      "version_code": 300,
+      "release_date": "2026-06-25",
+      "description": "Initial release",
+      "assets": [
+        {
+          "name": "CyberHost_Pro_v3.0.0.apk",
+          "download_url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/v3.0.0/CyberHost_Pro_v3.0.0.apk",
+          "size_bytes": 4500000,
+          "type": "apk"
+        }
+      ]
+    }
+  ]
+}
